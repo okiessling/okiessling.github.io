@@ -13,23 +13,23 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: OK Tech Notes # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A small collection of ideas # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A small collection of ideas
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: 'https://okiessling.github.io'
 
 github:
-  username: github_username # change to your github username
+  username: okiessling # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/Avatar/PersonalLogo_Oliver.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
