@@ -7,10 +7,6 @@ order: 4
 
 Hi! My name is Oliver, I'm a recent Mechanical Engineering & Management graduate from McMaster University. 
 
-I absolutely love working on projects and through I should share some of my favorite so you can get inspired as well!
-
-Thanks for visiting!
-
-___
+I absolutely love working on projects and wanted to share some of my favorite so you can get inspired as well!
 
 > *To my parents who gave me every oppurtunity to explore my interests*
