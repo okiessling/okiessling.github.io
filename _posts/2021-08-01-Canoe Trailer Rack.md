@@ -1,7 +1,7 @@
 ---
 title: Canoe Trailer Rack
 date: 2021-08-01 
-categories: [Projects, Personal]
+categories: [Projects, Family]
 tags: [mechanical design, woodworking]     # TAG names should always be lowercase
 toc: true
 math: true
