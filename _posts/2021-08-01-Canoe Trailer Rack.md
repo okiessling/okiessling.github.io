@@ -6,8 +6,11 @@ tags: [mechanical design, woodworking]     # TAG names should always be lowercas
 toc: true
 math: true
 image:
-  path: /assets/img/CanoeRack/20210801_160046.jpg   
+  path: /assets/img/CanoeRack/20210801_160046.jpg
   alt: Overview of Trailer Canoe Rack
+  height: "400"
+  width: "800"
+  class: "lazyloaded"
 ---
 
 1 Day project to build a functional and low cost trailer rack from "found material" and a quick trip to the hardware store.
@@ -31,6 +34,6 @@ Most people just sketch out a few key dimensions and get to cutting but I find t
 The pros of the final design include:
 1. Can be assembled with single drive ratchet.
 2. U-bolts allow you to vary the spacing of cross beams for different lengths of canoes (15', 16', 18').
-3. In shown orientation, the 2x4" has 5.6x higher stiffness than if it was laying flight from the second moment of area $$ I = (1/12)*a*b^3 $$
+3. In shown orientation, the 2x4" has 5.6x higher stiffness than if it was laying flight from the second moment of area $$ I = {a*b^3 \over 12} $$
 4. Wood (Pine) is weather resistant and has a lower hardness than the canoe gunwale resulting in lower wear on the valuable canoe.
 
