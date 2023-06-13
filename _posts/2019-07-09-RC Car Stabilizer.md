@@ -2,7 +2,7 @@
 title: RC Car Stabilizer
 date: 2019-07-09 
 categories: [Projects, Personal]
-tags: [mechanical design, video, electrical design]     # TAG names should always be lowercase
+tags: [mechanical design, video, electrical design, 3d printing]     # TAG names should always be lowercase
 toc: true
 image:
   path: /assets/img/RCCarStabilizer/20200701_131224 (1).jpg  
