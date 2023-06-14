@@ -6,7 +6,7 @@ tags: [product design, 3d printing]     # TAG names should always be lowercase
 toc: true
 image:
   path: /assets/img/TI_BR/20220604_011136 (1).jpg 
-  alt: This 3D print was later used as the "plug" to create a fiberglass hull
+  alt: This 3D print was later used as the plug to create a fiberglass hull
 ---
 This Technical Investigation (TI) was focused on how to create a large high-surface resolution plug for fiberglassing. Traditional methods of ["waffle structures"](https://alecgmckay.myportfolio.com/bench-waffle-structure){:target="_blank"} from laser cutting or 5-axis foam carving was not available due to limited tooling.  
 
