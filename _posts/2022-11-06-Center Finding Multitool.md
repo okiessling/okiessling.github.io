@@ -29,7 +29,7 @@ ___
 
 ## Overview
 
-Many center finding tools exist but not one with as much functionality as this. The most exciting feature is the two small pegs that allow you to trace lines at the center of a board. The center point between the begs is the location where you place the pencil so you simply need to rotate the pegs until they contact the workpeice and voila - you have found the center. 
+Many center-finding tools exist but not one with as much functionality as this. The most exciting feature is the two small pegs that allow you to trace lines at the center of a board. The center point between the begs is the location where you place the pencil so you simply need to rotate the pegs until they contact the workpiece and voila - you have found the center. 
 
 The current method of holding the ruler is only possible with 3D Printing as it bridges an air gap to create a small slot for the ruler to mate with a transition fit. In the future, it would be best to injection mold such a product which would require a small pan-head screw and a heat set insert to clamp the ruler in place. 
 
