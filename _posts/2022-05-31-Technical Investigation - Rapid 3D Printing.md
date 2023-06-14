@@ -25,7 +25,6 @@ _Credits: [/r/3Dprinting](https://www.reddit.com/r/3Dprinting/comments/6qe3rr/va
 
 Vase mode is a fantastic feature for....well...vases that don't require any rigidity but would collapse under any load when fiberglassing which would be detrimental.
 
-
 ## Solution
 
 
@@ -34,7 +33,7 @@ The solution is to trick the slicer into creating rib supports inside the struct
 
 ![Example Cross Section](/assets/img/TI_BR/image1.png){: .rounded-10 w='500' h='auto'}
 _Close-up of rib features bracing both sides of print and welded together at end_
-![Example Cross Section](/assets/img/TI_BR/20220530_143326%20(2).jpg){: .rounded-10 w='500' h='auto'}
+![Finished part CS](/assets/img/TI_BR/20220530_143326%20(2).jpg){: .rounded-10 w='500' h='auto'}
 _Example of the finished 3D Print with rib supports_
 
 
