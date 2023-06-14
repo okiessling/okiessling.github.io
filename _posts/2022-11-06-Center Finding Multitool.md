@@ -33,5 +33,5 @@ Many center-finding tools exist but not one with as much functionality as this. 
 
 The current method of holding the ruler is only possible with 3D Printing as it bridges an air gap to create a small slot for the ruler to mate with a transition fit. In the future, it would be best to injection mold such a product which would require a small pan-head screw and a heat set insert to clamp the ruler in place. 
 
-![Injection Mold Edition](/assets/img/Multi-Tool/INDIVIDUAL_CENTERFINDER_R1_2022-Nov-07_02-01-28AM-000_CustomizedView32356410569.png){: .rounded-10 w='800' h='600'}
+![Injection Mold Edition](/assets/img/Multi-Tool/INDIVIDUAL_CENTERFINDER_R1_2022-Nov-07_02-01-28AM-000_CustomizedView32356410569.png){: .rounded-10 w='600' h='600'}
 _Exploded View of Injection Molded Edition. Large pan-head secures the ruler._
