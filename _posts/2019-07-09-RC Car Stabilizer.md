@@ -9,7 +9,7 @@ image:
   alt: Overview of Stabilization
 ---
 
-Fun mini-project to hack together an RC car with the gimabl from a FB marketplace DJI Phantom 2 drone to get stabilized videos of highspeed passes. 
+Fun mini-project to hack together an RC car with the gimbal from a FB marketplace DJI Phantom 2 drone to get stabilized videos of highspeed passes. 
 
 ## Summary
 - **COST**:  $100 CAD
