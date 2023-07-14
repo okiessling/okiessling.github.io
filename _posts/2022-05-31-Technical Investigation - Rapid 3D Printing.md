@@ -1,5 +1,5 @@
 ---
-title: TI - Rapid, Large Size FDM 3D Printing
+title: TI - Large Size FDM 3D Printing
 date: 2022-05-31 
 categories: [Technical Investigation, Work]
 tags: [product design, 3d printing]     # TAG names should always be lowercase
