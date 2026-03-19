@@ -80,7 +80,7 @@ Making motors is an incredible optimization problem but the nice thing is that w
 3. *$\beta$*: To increase the magnetic field strength you want the smallest possible air gap between the magnets & the coils and/or using stronger magnets. Halfway through the project, I switched from N35 to N52 the strongest grade of neodymium magnets.
 
 
-4. *$\sin(\theta)$*: Ideally you want the wire/coils orthogonal to the current as $\sin(90) = 1$. The only parts of the wire in the image below are the sections of the coil with black electrical tape as they are ~90&deg; to the magnets. The arcs at the top and bottom don't generate any electricity as they are ~0&deg; to the magnetic field and wasted copper. One nice thing about the serpentine winding is that because the coils are continuous we have half as many 'arc sections' as with traditional winding meaning higher power density due to less wasted copper!
+4. *$\sin(\theta)$*: Ideally you want the wire/coils orthogonal to the current as $\sin(90) = 1$. The only parts of the wire in the image below are the sections of the coil with black electrical tape as they are ~90&deg; to the magnets. The arcs at the top and bottom don't generate any electricity as they are ~0&deg; to the magnetic field and wasted copper.One nice thing about the serpentine winding is that because the coils are continuous we have half as many 'arc sections' as with traditional winding meaning higher power density due to less wasted copper!
 
 
 
